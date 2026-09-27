@@ -6,8 +6,8 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 BOT_TOKEN = "8829008777:AAF9s4h6rqQKTaal8xJ_PmChFJTZCDZmyho"
 
 CHANNELS = [
-    {"id": -1003944298510, "name": "Канал 1", "url": "https://t.me/канал1"},
-    {"id": -1003931850448, "name": "Канал 2", "url": "https://t.me/канал2"},
+    {"id": -1003944298510, "name": "мой канал", "url": "https://t.me/bott_videos"},
+    {"id": -1003931850448, "name": "реклама бот", "url": "https://t.me/rekiamaabot"},
 ]
 
 bot = Bot(token=BOT_TOKEN)
